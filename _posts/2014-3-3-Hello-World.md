@@ -5,7 +5,7 @@ title: >-
   Becoming Discrimination?
 published: true
 ---
-# How Can We Prevent Algorithmic Bias in Artificial Intelligence Systems From Becoming Discrimination? (Day 10 of Ken Jee's #66DaysOfData)
+### (Day 10 of Ken Jee's #66DaysOfData)
 
 ## 1. Introduction
 
