@@ -1,0 +1,32 @@
+#main-container{
+    max-width: 960px;
+    margin-bottom: 100px;
+}
+
+#profile-image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#profile-image{
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.section{
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.benefit-card{
+    margin-top: 12px;
+}
+
+.service-card{
+    margin-top: 12px;
+}
+
+.contact-col{
+    margin-bottom: 20px;
+}
